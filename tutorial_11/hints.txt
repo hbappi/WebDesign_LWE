@@ -1,0 +1,154 @@
+ Some Useful HTML Character Entities
+
+ 	non-breaking space	                &nbsp;	&#160;	
+<	less than	                        &lt;	&#60;	
+>	greater than	                    &gt;	&#62;	
+&	ampersand	                        &amp;	&#38;	
+"	double quotation mark	            &quot;	&#34;	
+'	single quotation mark (apostrophe)	&apos;	&#39;	
+¢	cent	                            &cent;	&#162;	
+£	pound	                            &pound;	&#163;	
+¥	yen	                                &yen;	&#165;	
+€	euro	                            &euro;	&#8364;	
+©	copyright	                        &copy;	&#169;	
+®	registered trademark	            &reg;	&#174;
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Combining Diacritical Marks:
+
+    - A diacritical mark is a "glyph" added to a letter.
+    - Some diacritical marks, like grave (  ̀) and acute (  ́) are called accents.
+
+
+ 
+ ̀	 a	a&#768;	à
+ ́	 a	a&#769;	á
+ ́	 O	O&#769;	Ó
+ ̃	 O	O&#771;	Õ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Some Mathematical Symbols Supported by HTML:
+
+
+∀	&#8704;	&forall;	FOR ALL	
+∂	&#8706;	&part;	PARTIAL DIFFERENTIAL	
+∃	&#8707;	&exist;	THERE EXISTS	
+∅	&#8709;	&empty;	EMPTY SETS	
+∇	&#8711;	&nabla;	NABLA	
+∈	&#8712;	&isin;	ELEMENT OF	
+∉	&#8713;	&notin;	NOT AN ELEMENT OF	
+∋	&#8715;	&ni;	CONTAINS AS MEMBER	
+∏	&#8719;	&prod;	N-ARY PRODUCT	
+∑	&#8721;	&sum;	N-ARY SUMMATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Some Emoji Symbols in UTF-8:
+
+
+🗻	&#128507;	
+🗼	&#128508;	
+🗽	&#128509;	
+🗾	&#128510;	
+🗿	&#128511;	
+😀	&#128512;	
+😁	&#128513;	
+😂	&#128514;	
+😃	&#128515;	
+😄	&#128516;	
+😅	&#128517;
